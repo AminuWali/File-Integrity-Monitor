@@ -17,4 +17,4 @@ This is a simple File Integrity Monitor which uses file hashing to perform integ
 
 3. While the Files folder is open. Click on the green play button to Run.
 
-4. While the Script is running, make modifications to the text files(delete,edit,create new file), to receive the alerts in real-time through the Windows terminal
+4. While the Script is running, make modifications to the text files(delete,edit,create new file), to receive the alerts in real-time through the Windows terminal.
