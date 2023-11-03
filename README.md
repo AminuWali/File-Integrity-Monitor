@@ -11,7 +11,7 @@ This is a simple File Integrity Monitor which uses file hashing to perform integ
 
 1. Open the Command Prompt and clone the repository to your directory of choice:
    ```bash
-   git clone https://github.com/AminuWali/File-Integrity-Monitor.git 
+   git clone https://github.com/w1zzl3-06/File-Integrity-Monitor.git 
 
 2. Open Windows Powershell ISE and go to File > Open > FIM.ps1
 
