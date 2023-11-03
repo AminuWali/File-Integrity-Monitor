@@ -1,6 +1,6 @@
 # File-Integrity-Monitor
 
-This is a simple File Integrity Monitor which uses file hashing to perform integrity checks and notifies the user if chnages have been made to the files in real-time
+This is a simple File Integrity Monitor which uses SHA-512 hashing to perform integrity checks and notifies the user if chnages have been made to the files in real-time.
 
 
 ## Requirements
